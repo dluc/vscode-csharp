@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{06B139C3-2B18-40A9-83A1-408B5B9DC21C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{3482FCF2-DA7D-4807-94DB-5E6A50A99F02}"
+ProjectSection(SolutionItems) = preProject
+	..\omnisharp.json = ..\omnisharp.json
+	..\.gitignore = ..\.gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B139C3-2B18-40A9-83A1-408B5B9DC21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B139C3-2B18-40A9-83A1-408B5B9DC21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B139C3-2B18-40A9-83A1-408B5B9DC21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B139C3-2B18-40A9-83A1-408B5B9DC21C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
